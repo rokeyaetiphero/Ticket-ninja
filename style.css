@@ -122,3 +122,22 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+
+#complete-booking{
+    margin-top: 40px;
+    display: none;
+    background-color: beige;
+    padding: 30px;
+}
+
+#total-ticket{
+    color: darkcyan;
+}
+
+#total-prices{
+    color: indianred;
+}
+
+#complete-booking h1{
+    margin-bottom: 40px;
+}
